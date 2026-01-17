@@ -1,1 +1,2 @@
-print("hello brother! plessure to see you after a long time");
+color = input("whats the color of rose?");
+print(color);
