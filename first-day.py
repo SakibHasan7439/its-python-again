@@ -22,3 +22,7 @@ print(type(c));
 print(type(d));
 print(type(e));
 print(type(f));
+
+# variables
+a, b, c = 1, 1.2, "Hi! im the last one";
+print(a, b, c);
